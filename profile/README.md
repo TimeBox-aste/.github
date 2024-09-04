@@ -15,8 +15,8 @@
  - Красников Егор(aka JTKR) - Android - разработчик, backend - разработчик
  - Курочкин Егор(aka Milker) - Frontend - разработчик
 # Контакты
-Пишите на почту (owner@arefaste.ru)[mailto:owner@arefaste.ru]
-Или в телеграмм (TG: Arefaste)[https://t.me/arefaste]
+Пишите на почту [owner@arefaste.ru](mailto:owner@arefaste.ru)
+Или в телеграмм [TG: Arefaste](https://t.me/arefaste)
 <!--
 
 **Here are some ideas to get you started:**
